@@ -14,7 +14,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 """This Module does query to elasticsearch . Written on top of python-elasticsearch module"""
 
 #DEFAULT CONFIG FILE
-CONFIG_FILE='/etc/one.com/kibanaConfig.json'
+CONFIG_FILE='/etc/config/kibanaConfig.json'
 
 
 class ElasticQuery(object):

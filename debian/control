@@ -1,0 +1,10 @@
+Source: one.com-python-elasticsearch
+Section: misc
+Priority: standard
+Maintainer: Rohit kumar <rohitk@one.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.6
+
+Package: one.com-python-elasticsearch
+Architecture: any
+Description: Module to query elasticsearch

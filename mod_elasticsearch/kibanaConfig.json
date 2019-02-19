@@ -1,0 +1,9 @@
+{
+    "elastic":{
+        "host":"example.com",
+        "port":443,
+        "user":"user",
+        "password":"password",
+        "timeout":300
+    }
+}

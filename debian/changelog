@@ -1,0 +1,5 @@
+one.com-python-elasticsearch (1.0.0) systems-xenial systems-bionic; urgency=medium
+
+  * Initial release.
+
+ -- rohitk <rohitk@rohitk@one.com>  Tue, 12 Feb 2019 12:29:06 +0530

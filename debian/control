@@ -7,4 +7,5 @@ Standards-Version: 3.9.6
 
 Package: one.com-python-elasticsearch
 Architecture: any
+Depends: python-elasticsearch (>= 5.4)
 Description: Module to query elasticsearch
